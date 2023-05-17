@@ -1,0 +1,134 @@
+{
+    "/station/historical/histalp-v1-1y": {
+        "type": "station",
+        "mode": "historical",
+        "response_formats": [
+            "geojson",
+            "csv"
+        ],
+        "url": "https://dataset.api.hub.zamg.ac.at/v1/station/historical/histalp-v1-1y"
+    },
+    "/station/historical/klima-v1-1d": {
+        "type": "station",
+        "mode": "historical",
+        "response_formats": [
+            "geojson",
+            "csv"
+        ],
+        "url": "https://dataset.api.hub.zamg.ac.at/v1/station/historical/klima-v1-1d"
+    },
+    "/station/historical/klima-v1-1h": {
+        "type": "station",
+        "mode": "historical",
+        "response_formats": [
+            "geojson",
+            "csv"
+        ],
+        "url": "https://dataset.api.hub.zamg.ac.at/v1/station/historical/klima-v1-1h"
+    },
+    "/station/historical/klima-v1-1m": {
+        "type": "station",
+        "mode": "historical",
+        "response_formats": [
+            "geojson",
+            "csv"
+        ],
+        "url": "https://dataset.api.hub.zamg.ac.at/v1/station/historical/klima-v1-1m"
+    },
+    "/station/historical/klima-v1-10min": {
+        "type": "station",
+        "mode": "historical",
+        "response_formats": [
+            "geojson",
+            "csv"
+        ],
+        "url": "https://dataset.api.hub.zamg.ac.at/v1/station/historical/klima-v1-10min"
+    },
+    "/station/historical/tawes-v1-10min": {
+        "type": "station",
+        "mode": "historical",
+        "response_formats": [
+            "geojson",
+            "csv"
+        ],
+        "url": "https://dataset.api.hub.zamg.ac.at/v1/station/historical/tawes-v1-10min"
+    },
+    "/station/current/tawes-v1-10min": {
+        "type": "station",
+        "mode": "current",
+        "response_formats": [
+            "geojson",
+            "csv"
+        ],
+        "url": "https://dataset.api.hub.zamg.ac.at/v1/station/current/tawes-v1-10min"
+    },
+    "/station/historical/synop-v1-1h": {
+        "type": "station",
+        "mode": "historical",
+        "response_formats": [
+            "geojson",
+            "csv"
+        ],
+        "url": "https://dataset.api.hub.zamg.ac.at/v1/station/historical/synop-v1-1h"
+    },
+    {
+    "type": "INDIVIDUAL",
+    "id": "11044",
+    "group_id": null,
+    "name": "WIEN JUBILAEUMSWARTE",
+    "state": "Wien",
+    "lat": 48.221111111111114,
+    "lon": 16.26527777777778,
+    "altitude": 450,
+    "valid_from": "2008-09-17T00:00+00:00",
+    "valid_to": "2024-05-16T09:42+00:00",
+    "has_sunshine": false,
+    "has_global_radiation": false,
+    "is_active": true
+},
+{
+    "type": "INDIVIDUAL",
+    "id": "11035",
+    "group_id": null,
+    "name": "WIEN/HOHE WARTE",
+    "state": "Wien",
+    "lat": 48.24861111111111,
+    "lon": 16.35638888888889,
+    "altitude": 198,
+    "valid_from": "1972-01-01T00:00+00:00",
+    "valid_to": "2024-05-16T09:42+00:00",
+    "has_sunshine": false,
+    "has_global_radiation": false,
+    "is_active": true
+},
+{
+    "type": "INDIVIDUAL",
+    "id": "11036",
+    "group_id": null,
+    "name": "WIEN/SCHWECHAT-FLUGHAFEN",
+    "state": "Niederösterreich",
+    "lat": 48.1175,
+    "lon": 16.58138888888889,
+    "altitude": 183,
+    "valid_from": "1972-01-01T00:00+00:00",
+    "valid_to": "2024-05-16T09:42+00:00",
+    "has_sunshine": false,
+    "has_global_radiation": false,
+    "is_active": true
+},
+{
+    "type": "INDIVIDUAL",
+    "id": "11034",
+    "group_id": null,
+    "name": "WIEN-INNERE STADT",
+    "state": "Wien",
+    "lat": 48.19833333333333,
+    "lon": 16.366944444444446,
+    "altitude": 177,
+    "valid_from": "1990-03-09T00:00+00:00",
+    "valid_to": "2024-05-16T09:42+00:00",
+    "has_sunshine": false,
+    "has_global_radiation": false,
+    "is_active": true
+}
+}
