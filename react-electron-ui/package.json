@@ -5,6 +5,7 @@
   "productName": "Morning Update",
   "main": "electron/electron.js",
   "homepage": "./",
+  "proxy": "https://dataset.api.hub.zamg.ac.at",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
