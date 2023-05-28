@@ -1,17 +1,15 @@
 <template>
   <div>
-    <Calendar/>
+    <h1>{{greeting}}</h1>
   </div>
+
 </template>
 
 <script lang="ts">
 import { Vue, Component } from "vue-property-decorator";
-import Calendar from "./components/Calendar.vue";
 
 @Component
-export default class App extends Vue {
-  components = {
-    Calendar
-  };
+export default class Calendar extends Vue {
+  private gretting: string = "Figuring out Vue";
 }
 </script>
