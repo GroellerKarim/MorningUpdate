@@ -5,13 +5,12 @@
 </template>
 
 <script lang="ts">
-import { Vue, Component } from "vue-property-decorator";
 import Calendar from "./components/Calendar.vue";
 
 @Component
 export default class App extends Vue {
   components = {
-    Calendar
+    Calendar,
   };
 }
 </script>
